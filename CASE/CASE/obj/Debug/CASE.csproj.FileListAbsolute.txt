@@ -1,0 +1,11 @@
+D:\c# 2022\CASE\CASE\bin\Debug\CASE.exe.config
+D:\c# 2022\CASE\CASE\bin\Debug\CASE.exe
+D:\c# 2022\CASE\CASE\bin\Debug\CASE.pdb
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.csproj.AssemblyReference.cache
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.csproj.SuggestedBindingRedirects.cache
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.Form1.resources
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.Properties.Resources.resources
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.csproj.GenerateResource.cache
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.csproj.CoreCompileInputs.cache
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.exe
+D:\c# 2022\CASE\CASE\obj\Debug\CASE.pdb
